@@ -1,0 +1,3 @@
+<template>
+    anything
+</template>
